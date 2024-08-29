@@ -13,16 +13,13 @@ An interactive Streamlit app for analyzing and visualizing shipping routes and f
 
 1. Clone the repository:
 	```bash
-	git clone https://github.com/yourusername/world-freight-financial-dashboard.git
-	cd world-freight-financial-dashboard
+	git clone https://github.com/alexkocev/freight-financial-dashboard.git
+	cd freight-financial-dashboard
 	```
 
 2.  Create and activate a virtual environment:
 	```bash
 	python -m venv env
-	# On Windows
-	.\env\Scripts\activate
-	# On macOS/Linux
 	source env/bin/activate
 	```
     
